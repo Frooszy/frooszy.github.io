@@ -57,7 +57,7 @@ export default function Home() {
                 <h1 className="text-5xl text-blue-800 text-center font-bold">Sobre</h1>
                 <p className="text-center text-xl">Um pouco mais sobre mim, e as tecnologias que tenho experiência e utilizo no meu dia a dia.</p>
               </div>
-              <div className="flex flex-col gap-16 justify-between mt-[5%] md:flex-row">
+              <div className="flex flex-col gap-6 justify-between mt-[5%] md:gap-16 md:flex-row">
                 <div className="flex w-full items-center flex-col gap-4 md:items-start md:w-1/2">
                   <h1 className="text-2xl font-bold md:text-4xl">Sobre mim</h1>
                   <div className="flex flex-col gap-2 text-lg text-center md:text-xl md:text-left">

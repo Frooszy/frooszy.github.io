@@ -44,9 +44,9 @@ export default function Home() {
             <div className="flex w-full flex-col drop-shadow-2xl gap-7 text-center md:w-3/5 md:text-start">
               <div className="flex flex-col text-4xl md:gap-3 md:flex-row md:text-4xl lg:text-5xl">
                 <h1>Olá, eu sou o</h1>
-                <span className="text-blue-800 text-5xl md:text-4xl lg:text-5xl">João Vitor</span>
+                <span className="text-purple-800 text-5xl md:text-4xl lg:text-5xl">João Vitor</span>
               </div>
-              <p className="text-xl md:text-xl lg:text-2xl 2xl:w-4/5">Desenvolvedor <span className="text-blue-400">Full Stack</span>, com interesse na área de tecnologia, buscando constante aprendizado e conhecimento.</p>
+              <p className="text-xl md:text-xl lg:text-2xl 2xl:w-4/5">Desenvolvedor <span className="text-purple-400">Full Stack</span>, com interesse na área de tecnologia, buscando constante aprendizado e conhecimento.</p>
             </div>
           </div>
         </SwiperSlide>
@@ -54,7 +54,7 @@ export default function Home() {
           <div className="flex w-full h-screen justify-start items-center px-4">
             <div className="flex flex-col w-full drop-shadow-2xl gap-3">
               <div className="hidden flex-col gap-3 md:flex">
-                <h1 className="text-5xl text-blue-800 text-center font-bold">Sobre</h1>
+                <h1 className="text-5xl text-purple-800 text-center font-bold">Sobre</h1>
                 <p className="text-center text-xl">Um pouco mais sobre mim, e as tecnologias que tenho experiência e utilizo no meu dia a dia.</p>
               </div>
               <div className="flex flex-col gap-6 justify-between mt-[5%] md:gap-16 md:flex-row">
@@ -78,12 +78,12 @@ export default function Home() {
         <SwiperSlide>
           <div className="flex w-full h-screen justify-start items-center px-8">
             <div className="flex w-full flex-col drop-shadow-2xl gap-4">
-              <h1 className="text-4xl font-bold text-center text-blue-800 md:text-left md:text-5xl">Projetos</h1>
+              <h1 className="text-4xl font-bold text-center text-purple-800 md:text-left md:text-5xl">Projetos</h1>
               <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 xl:grid-cols-3">
                 <div className="flex justify-between flex-col bg-zinc-900 p-4 gap-5">
                   <h1 className="text-xl md:text-2xl">Samba Technology</h1>
                   <p className="text-gray-300 text-base md:text-lg">Soluções com aplicações web (Next.js e Nest.js) para a facilitação de processos escolares.</p>
-                  <a className="text-blue-500 text-lg md:text-xl" href="https://github.com/Samba-Technology" target="_blank">Visualizar projeto</a>
+                  <a className="text-purple-500 text-lg md:text-xl" href="https://github.com/Samba-Technology" target="_blank">Visualizar projeto</a>
                 </div>
                 <div className="flex flex-col bg-zinc-900 p-4 gap-5">
                   <h1 className="text-xl md:text-2xl">Em breve...</h1>

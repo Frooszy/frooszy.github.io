@@ -5,7 +5,7 @@ import { Outfit } from "next/font/google";
 const outfit = Outfit({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "João Vitor",
+  title: "João Vitor | Portifólio",
   description: "Fullstack Developer",
 };
 
